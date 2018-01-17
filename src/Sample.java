@@ -5,7 +5,7 @@ public class Sample{
 		//... more statements
 		System.out.println("Hi EveryOne");
 		
-		//sample
+		//sample code 
 	}
 
 }
