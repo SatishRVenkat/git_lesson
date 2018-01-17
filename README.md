@@ -5,5 +5,3 @@ This is a change to an existing file that git has already tracked.
 This is the third change of the file
 
 Git is aversion control sys that prevents us from "final doc" problem
-
-This is a commit i am not aware of, or one that I have forgotten about.
