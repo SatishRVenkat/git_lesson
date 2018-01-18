@@ -6,7 +6,7 @@ public class Sample{
 		System.out.println("Hi EveryOne! A Spl welcome to you all");
 
 		System.out.println("Hi EveryOne");
-		
+		//I Love U Yar
 	}
 
 }
